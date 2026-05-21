@@ -1,5 +1,7 @@
 ## Single-Cycle and Multi-Cycle Processor Design
 
+## Overview
+
 This repository contains an academic laboratory project focused on the design, implementation, and comparison of single-cycle and multi-cycle processor architectures.
 
 The lab was completed as part of a Hardware Description Languages and FPGA-based digital design course. It focuses on processor microarchitecture, RTL implementation, datapath and control-unit separation, and functional verification.
